@@ -1,0 +1,1 @@
+player.draw_sprites(player_sprites,sprites_index,subimage_counter,sign(facing),x,y);

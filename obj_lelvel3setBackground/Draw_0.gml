@@ -1,0 +1,2 @@
+background.ponerCielo();
+background.ponerFondo();
